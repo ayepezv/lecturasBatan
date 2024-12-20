@@ -1,0 +1,22 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "cuentas_lecturas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "ruta",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "estado_pago",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "secuencia",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

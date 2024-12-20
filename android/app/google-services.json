@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "631817669328",
+    "firebase_url": "https://lecturasbatan-bc5b2-default-rtdb.firebaseio.com",
+    "project_id": "lecturasbatan-bc5b2",
+    "storage_bucket": "lecturasbatan-bc5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631817669328:android:cf845934ebdaf9ef2bacd5",
+        "android_client_info": {
+          "package_name": "com.mycompany.datoscampo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631817669328-5remb0b9k70d9udj04ip9knvcmii21sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStMQdud4cxehxq8rRerjQCpiqiGIBDIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631817669328-5remb0b9k70d9udj04ip9knvcmii21sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631817669328-r9qp62vn37cin2s9kq409h3025r6n7jq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yxpelectronic.ec"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631817669328:android:b1a282ed319cd09f2bacd5",
+        "android_client_info": {
+          "package_name": "com.yxpelectronic.ec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631817669328-5remb0b9k70d9udj04ip9knvcmii21sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStMQdud4cxehxq8rRerjQCpiqiGIBDIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631817669328-5remb0b9k70d9udj04ip9knvcmii21sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631817669328-r9qp62vn37cin2s9kq409h3025r6n7jq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yxpelectronic.ec"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
